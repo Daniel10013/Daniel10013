@@ -49,6 +49,7 @@ I’m recognized for my adaptability, strong problem-solving skills, and clear c
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-filipe-cv/)
 - 📧 [daniel.filipesoarescv@gmail.com](mailto:daniel.filipesoarescv@gmail.com)
 
+##
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel10013&layout=compact&theme=dracula"/>
   <img src="https://github-readme-stats.vercel.app/api?username=daniel10013&show_icons=true&theme=dracula"
