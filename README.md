@@ -44,14 +44,10 @@ I’m recognized for my adaptability, strong problem-solving skills, and clear c
 - [Users Management](https://github.com/Daniel10013/laravel-users-management) – A users management system made for Intern process at Symplicity, with some cool security features
 - [Freelancer for an Store](https://github.com/Daniel10013/site-extintores) – This website was made for an fire extinguisher store, all from scratch, done together with a friend
 
----
-
 ## 📫 Reach Me Out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-filipe-cv/)
 - 📧 [daniel.filipesoarescv@gmail.com](mailto:daniel.filipesoarescv@gmail.com)
-
----
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel10013&layout=compact&theme=dracula"/>
