@@ -1,13 +1,6 @@
-<h1 align="center">Olá, eu sou o Daniel Filipe 👋</h1>
-<p align="center">Desenvolvedor Back-end | Criador de APIs e sistemas escaláveis</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=Daniel%20Filipe&section=header&reversal=true&textBg=false&desc=Full%20Stack%20Software%20Engineer&descSize=35&fontSize=70&descAlignY=55&fontAlignY=40"/>
 
-<div align="center">
-  <img src="" width="400" alt="foto">
-</div>
-
----
-
-## 💻 Sobre mim
+## 💻 About Me:
 
 Sou um desenvolvedor back-end focado...
 ---
