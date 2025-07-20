@@ -42,5 +42,4 @@ I’m recognized for my adaptability, strong problem-solving skills, and clear c
 ##
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel10013&layout=compact&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel10013&show_icons=true&theme=dracula"
 </div>
